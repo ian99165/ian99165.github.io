@@ -10735,7 +10735,7 @@ header.masthead .post-heading .meta a {
 }
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: 12.5rem;
+    padding-top: 30rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .page-heading h1, header.masthead .page-heading .h1,
@@ -10795,4 +10795,12 @@ header.masthead .post-heading .meta a {
   .post-preview > a > .post-title {
     font-size: 2.25rem;
   }
+}
+
+.text04{
+  text-align: center;
+  color: #000000;
+  font-size: 12px;
+  position: relative;
+  z-index: 10;
 }
