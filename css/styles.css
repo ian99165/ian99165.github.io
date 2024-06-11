@@ -10804,3 +10804,8 @@ header.masthead .post-heading .meta a {
   position: relative;
   z-index: 10;
 }
+
+.icon{
+  height: 50px;
+  width: auto;
+}
